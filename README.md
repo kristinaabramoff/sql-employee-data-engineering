@@ -58,7 +58,8 @@ Once the data engineering tasks were completed, SQL queries were used to extract
 ## Database Schema
 Below is the schema (Entity Relationship Diagram) used for this project, which represents the relationships between the tables derived from the CSV files.
 
-![Database Schema](Schema)
+![Schema](https://github.com/user-attachments/assets/d8929746-bc3e-49b1-8138-bcead55f0161)
+
 
 ## Conclusion
 This project demonstrates a full pipeline of **data engineering** and **data analysis**. From structuring raw data into a meaningful database schema to performing complex SQL queries, this project showcases my ability to manage and extract insights from large datasets, making it suitable for real-world applications in business environments.
